@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+la01,Clay Grid,pack-local equal-tempered pitch collection,D,124,4/4,480,32,61440,midi/la01-clay-grid/la01-clay-grid-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+la02,Sun Patio,pack-local equal-tempered pitch collection,F,124,4/4,480,32,61440,midi/la02-sun-patio/la02-sun-patio-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+la03,Blue Tile,pack-local equal-tempered pitch collection,G#,124,4/4,480,32,61440,midi/la03-blue-tile/la03-blue-tile-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+la04,Warm Turn,pack-local equal-tempered pitch collection,D#,124,4/4,480,32,61440,midi/la04-warm-turn/la04-warm-turn-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

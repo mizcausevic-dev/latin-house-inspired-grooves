@@ -1,0 +1,3 @@
+DRAFT: Latin House-Inspired Grooves Studies is a four-study original MIDI release at 124 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 152 characters using Python len

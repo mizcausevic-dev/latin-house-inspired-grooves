@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T14:19:30.907929+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/la01-clay-grid/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "b4692a17ace9acafa85b94689e089999c5a13c5317009ebe3d50c51a6185530a",
+      "errors": []
+    },
+    {
+      "path": "midi/la01-clay-grid/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "314817cd9e4a9e846949a7b641e7f7db559e44784c59de6a69b61d25eed3141e",
+      "errors": []
+    },
+    {
+      "path": "midi/la01-clay-grid/drums.mid",
+      "bytes": 2954,
+      "sha256": "befc3761960db3d8187d2c622eee299f3b765b9ade08e8d0137ccabac158a675",
+      "errors": []
+    },
+    {
+      "path": "midi/la01-clay-grid/la01-clay-grid-combined.mid",
+      "bytes": 6080,
+      "sha256": "989cebe1821aed61ff35fb5544255e34a7121b76fe23b2020f4648e1c4265be6",
+      "errors": []
+    },
+    {
+      "path": "midi/la01-clay-grid/principal_motif.mid",
+      "bytes": 731,
+      "sha256": "e94a3064c503cccce5aae56cf58d28265d88e4bb76047c5cb30a05ce629170bd",
+      "errors": []
+    },
+    {
+      "path": "midi/la01-clay-grid/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "60a611e0952ed37b09150f0a278968a41beb434aeeba65fdc296d7569e3b6967",
+      "errors": []
+    },
+    {
+      "path": "midi/la01-clay-grid/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "b12250bb032968cba07e40d04caece954066ad5b67fe8e9ebaef8aeffb97771b",
+      "errors": []
+    },
+    {
+      "path": "midi/la02-sun-patio/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "cfae09925e0bafe874b99717c2b89348b7214f6472fdcbcd04f66f9e71d43694",
+      "errors": []
+    },
+    {
+      "path": "midi/la02-sun-patio/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "5eca2d6b5d94ba6ca6af5c774af8668a506fe0c0c37fc98d2dbd67a64b298d08",
+      "errors": []
+    },
+    {
+      "path": "midi/la02-sun-patio/drums.mid",
+      "bytes": 2954,
+      "sha256": "befc3761960db3d8187d2c622eee299f3b765b9ade08e8d0137ccabac158a675",
+      "errors": []
+    },
+    {
+      "path": "midi/la02-sun-patio/la02-sun-patio-combined.mid",
+      "bytes": 6080,
+      "sha256": "88c9640d38928bd154c90c4a13e1bdff8ff9f7d2a0aa956ac02b865ac9286020",
+      "errors": []
+    },
+    {
+      "path": "midi/la02-sun-patio/principal_motif.mid",
+      "bytes": 731,
+      "sha256": "a599a74c6b836de79f2e919f7e3fcbf2b13301990b6dbe8be30c53c5bcb9b8b7",
+      "errors": []
+    },
+    {
+      "path": "midi/la02-sun-patio/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "177ddc84dc4f6763c17509b704e55d1ffe69bb46aa7411a141905f9fd8512f99",
+      "errors": []
+    },
+    {
+      "path": "midi/la02-sun-patio/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "940d281e32f29197f1d4ba79f92ef5e64e24802568faf9a2b654e5a80b6e6f67",
+      "errors": []
+    },
+    {
+      "path": "midi/la03-blue-tile/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "c44a89c61990af67af519ca51327a2af53f9d156915f0a8c00dae0041ab89963",
+      "errors": []
+    },
+    {
+      "path": "midi/la03-blue-tile/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a4375d470175107d995679a52cc668df03f430cd76a208857c29c97a865cb374",
+      "errors": []
+    },
+    {
+      "path": "midi/la03-blue-tile/drums.mid",
+      "bytes": 2954,
+      "sha256": "befc3761960db3d8187d2c622eee299f3b765b9ade08e8d0137ccabac158a675",
+      "errors": []
+    },
+    {
+      "path": "midi/la03-blue-tile/la03-blue-tile-combined.mid",
+      "bytes": 6060,
+      "sha256": "2053615b0e8f3974860b13155b8563edb6dac3e660a91e546945653c73eebb29",
+      "errors": []
+    },
+    {
+      "path": "midi/la03-blue-tile/principal_motif.mid",
+      "bytes": 711,
+      "sha256": "7187ce11a319a865872eb744fb9c7b355fc0e3e92cec0fe2c1107ce56caca3e6",
+      "errors": []
+    },
+    {
+      "path": "midi/la03-blue-tile/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "24e5183bead4d03a024fd89ed96a54a27120128648ec238490c05bdd6cd5acf1",
+      "errors": []
+    },
+    {
+      "path": "midi/la03-blue-tile/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9a4f9f77d32a8047311f429dd52073cf7e37d6c0178b67f1e65022b3f8781663",
+      "errors": []
+    },
+    {
+      "path": "midi/la04-warm-turn/chord_pulse.mid",
+      "bytes": 1305,
+      "sha256": "791c393e728076204552b5f72d27a259f2af464a25c5107be7baeb64519753c3",
+      "errors": []
+    },
+    {
+      "path": "midi/la04-warm-turn/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "50c01b59d4131341bc99f9b6744a5360b20d4902cb4405681d1bb6996879ded3",
+      "errors": []
+    },
+    {
+      "path": "midi/la04-warm-turn/drums.mid",
+      "bytes": 2954,
+      "sha256": "befc3761960db3d8187d2c622eee299f3b765b9ade08e8d0137ccabac158a675",
+      "errors": []
+    },
+    {
+      "path": "midi/la04-warm-turn/la04-warm-turn-combined.mid",
+      "bytes": 6060,
+      "sha256": "a48f7835619a331075fbb1a915a08763cfeac1a2fd8a4484f7086068c1b22735",
+      "errors": []
+    },
+    {
+      "path": "midi/la04-warm-turn/principal_motif.mid",
+      "bytes": 711,
+      "sha256": "c4262f6b9680c52d726588df16af5ab80a62630b07699902bd48ea54a57b5760",
+      "errors": []
+    },
+    {
+      "path": "midi/la04-warm-turn/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "4864400d41ae4861f14747dcbef653a06fdf3ec03c6dfdc81d413458bf572c4d",
+      "errors": []
+    },
+    {
+      "path": "midi/la04-warm-turn/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "81c699d9336e201d10d1f5e5e8728ebf7b54423a07bc25c5b8424b8019801e07",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
