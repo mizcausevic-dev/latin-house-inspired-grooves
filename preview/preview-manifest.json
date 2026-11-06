@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/latin-house-inspired-grooves-simple-synth-preview.mp3",
-  "preview_sha256": "7927b24b1eef43bafe822c177cad835fa131183b527cc8eae64619e3aff0e198",
+  "preview_sha256": "a3afb59946111963f4acfa2c6125ef5644d82b7ac05c5285e88cea9e23ba6846",
   "source_midi_path": "midi/la01-clay-grid/la01-clay-grid-combined.mid",
-  "source_midi_sha256": "989cebe1821aed61ff35fb5544255e34a7121b76fe23b2020f4648e1c4265be6",
+  "source_midi_sha256": "3ddfccddfcd0d73458ab37f53608236b4cc4cfb744fdd2ddb5e7584a8398b208",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 61.935
   },
   "measurement": {
-    "sample_peak": 0.123751,
+    "sample_peak": 0.12338,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

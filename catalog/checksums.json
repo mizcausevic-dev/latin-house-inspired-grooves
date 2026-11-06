@@ -33,8 +33,8 @@
     },
     {
       "path": "art/raster-provenance.json",
-      "bytes": 500,
-      "sha256": "624456cf80f2c96e0c51a48500fe6435424c033b0c56cc4280ec75aba4baa390"
+      "bytes": 408,
+      "sha256": "34688f45878fcb84538b15ad2de3dec76cfd9383f0030facf4f0b65f0c8f506a"
     },
     {
       "path": "art/square.jpg",
@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 97768,
-      "sha256": "57de874744976f40a01e945eba710c2ca1fb2ec2eac8828d61f7fd4136a5ef4a"
+      "bytes": 97770,
+      "sha256": "fba08a63b354220d708fae9af31015b8bf5d70ddf7c0bcfa866fb26e469d2fa4"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 395,
-      "sha256": "fb2985b9191f79a839d6acbfa0812180624bc9f6816629389291378255fca769"
+      "sha256": "4a4ed930c7bb3219ea980ee6a638c4380318c9e758eeecead2656506541d0a3f"
     },
     {
       "path": "checks/clip-validation.json",
@@ -109,7 +109,7 @@
     {
       "path": "checks/media-validation.json",
       "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "sha256": "a38ce5abc6328741f322e9c64cb0b692f1877c6c69b6811e7a77f4d662e7a018"
     },
     {
       "path": "clips/la01-bass-hook-01.mid",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/latin-house-inspired-grooves-midi.zip",
-      "bytes": 28265,
-      "sha256": "defc45d9637a4736f36318428c21fcf292910faca161597c85a5a752a5bb5705"
+      "bytes": 29763,
+      "sha256": "bab6bd691d1f4c3705ee1d4ca8efb240b0ed4f41229ea91e137e437d5572baaf"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2894,
-      "sha256": "640842579c961d0d602b1333714ab4aa221530e722aa0bdd3881a3c429929f61"
+      "bytes": 3000,
+      "sha256": "73167bb0114be41184b7c01ce350cbf4ea74d24725ba051d1629e0b65811ea20"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 1056978,
-      "sha256": "4566b6e71241b3ddcb7aa73d0539eb50ad573c18d3cace2cf7125669cea43b7c"
+      "bytes": 1049069,
+      "sha256": "eb8c6f59ebee4bb9372c3e43e9a0b73e95b06356057ca0926acc99315b0b3e4c"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1189,
-      "sha256": "590213e535fb4f2d10434fcb799d3dd89f5c586023dd175716254f375204c5f0"
+      "bytes": 1215,
+      "sha256": "842103ce91b5359cd5353d8eff919c4114c087296fbc8fc0f5af157272414fcd"
     },
     {
       "path": "index.html",
-      "bytes": 9533,
-      "sha256": "ddb9de259c110506df5c1b24f7d0d346f4a9191a081b83f0d4524a60cfe66013"
+      "bytes": 10565,
+      "sha256": "cc3e1f5274ec9f95f6859b5a1f20f7296691fa1b119b184e6b8a097c99327586"
     },
     {
       "path": "midi/la01-clay-grid/chord_pulse.mid",
@@ -253,13 +253,13 @@
     },
     {
       "path": "midi/la01-clay-grid/la01-clay-grid-combined.mid",
-      "bytes": 6080,
-      "sha256": "989cebe1821aed61ff35fb5544255e34a7121b76fe23b2020f4648e1c4265be6"
+      "bytes": 6056,
+      "sha256": "3ddfccddfcd0d73458ab37f53608236b4cc4cfb744fdd2ddb5e7584a8398b208"
     },
     {
       "path": "midi/la01-clay-grid/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "e94a3064c503cccce5aae56cf58d28265d88e4bb76047c5cb30a05ce629170bd"
+      "bytes": 707,
+      "sha256": "1a5ed1978d01e2d301ba44bb4350fa2e568c47fdf679d28f474fdec8bcd37ae5"
     },
     {
       "path": "midi/la01-clay-grid/sub_bass.mid",
@@ -288,13 +288,13 @@
     },
     {
       "path": "midi/la02-sun-patio/la02-sun-patio-combined.mid",
-      "bytes": 6080,
-      "sha256": "88c9640d38928bd154c90c4a13e1bdff8ff9f7d2a0aa956ac02b865ac9286020"
+      "bytes": 6057,
+      "sha256": "05ca96403544fbd12ae7343a194f500d6b0f1edcb5681cf72a3a61d2774ad4ed"
     },
     {
       "path": "midi/la02-sun-patio/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "a599a74c6b836de79f2e919f7e3fcbf2b13301990b6dbe8be30c53c5bcb9b8b7"
+      "bytes": 708,
+      "sha256": "5b4612bb1422ceba4c480be6309ada3a9acacf9a763d3611ab0fcef75abeb1f2"
     },
     {
       "path": "midi/la02-sun-patio/sub_bass.mid",
@@ -323,13 +323,13 @@
     },
     {
       "path": "midi/la03-blue-tile/la03-blue-tile-combined.mid",
-      "bytes": 6060,
-      "sha256": "2053615b0e8f3974860b13155b8563edb6dac3e660a91e546945653c73eebb29"
+      "bytes": 6037,
+      "sha256": "5d2980c32eddbca86efdad84797ad051b2c67f3b187a9e9b1aafa67892406fde"
     },
     {
       "path": "midi/la03-blue-tile/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "7187ce11a319a865872eb744fb9c7b355fc0e3e92cec0fe2c1107ce56caca3e6"
+      "bytes": 688,
+      "sha256": "d5b00c84f303d210484954ea2a029d97aba77524a2966dec3b580c620bc7ac98"
     },
     {
       "path": "midi/la03-blue-tile/sub_bass.mid",
@@ -358,13 +358,13 @@
     },
     {
       "path": "midi/la04-warm-turn/la04-warm-turn-combined.mid",
-      "bytes": 6060,
-      "sha256": "a48f7835619a331075fbb1a915a08763cfeac1a2fd8a4484f7086068c1b22735"
+      "bytes": 6038,
+      "sha256": "7ff96d7f88a2e214ed657c034b37672c873d4673942ed87786749748a676aca7"
     },
     {
       "path": "midi/la04-warm-turn/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "c4262f6b9680c52d726588df16af5ab80a62630b07699902bd48ea54a57b5760"
+      "bytes": 689,
+      "sha256": "21e976df223af3ee7d54e51ffab9cf3da17ba529fcf13e8065ef9e7329eb4bbd"
     },
     {
       "path": "midi/la04-warm-turn/sub_bass.mid",
@@ -379,17 +379,22 @@
     {
       "path": "preview/latin-house-inspired-grooves-simple-synth-preview.mp3",
       "bytes": 1500308,
-      "sha256": "7927b24b1eef43bafe822c177cad835fa131183b527cc8eae64619e3aff0e198"
+      "sha256": "a3afb59946111963f4acfa2c6125ef5644d82b7ac05c5285e88cea9e23ba6846"
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1137,
-      "sha256": "9f6039435871cd05bacb8962fe2b73b4b7ac80de7e7edd3dc01836507b9b32cb"
+      "bytes": 1136,
+      "sha256": "26e89eb3672809fd2a8ef1b986e7c97a1e4bcc852b9033910ba2a1d5293e9efd"
     },
     {
       "path": "README.md",
-      "bytes": 3912,
-      "sha256": "03c31ab29123fe34b58a565127ed7188c375a3135c12e35e2f248412d4a4093a"
+      "bytes": 4130,
+      "sha256": "a6bcc54308ca8df3335b5686c2d204627f3eeaff9905727e512339e93a313f8e"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 790,
+      "sha256": "203f31d38636cffa204d1907a606e56edb19118c60770be54abfcdae4465aeba"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 92811,
-      "sha256": "a909c86d9cced0fc837b0ce3a2509056f0d1ae600cf48dc48e8baabd440cffee"
+      "bytes": 93250,
+      "sha256": "86f70a96f6251371f4a38c699e2fe253b3c712f93ee541f2f4cbe02a69e911fb"
     },
     {
       "path": "tools/polish_release.py",

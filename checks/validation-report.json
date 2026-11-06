@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T14:19:30.907929+00:00",
+  "run_time_utc": "2026-11-06T11:40:51.061129+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/la01-clay-grid/la01-clay-grid-combined.mid",
-      "bytes": 6080,
-      "sha256": "989cebe1821aed61ff35fb5544255e34a7121b76fe23b2020f4648e1c4265be6",
+      "bytes": 6056,
+      "sha256": "3ddfccddfcd0d73458ab37f53608236b4cc4cfb744fdd2ddb5e7584a8398b208",
       "errors": []
     },
     {
       "path": "midi/la01-clay-grid/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "e94a3064c503cccce5aae56cf58d28265d88e4bb76047c5cb30a05ce629170bd",
+      "bytes": 707,
+      "sha256": "1a5ed1978d01e2d301ba44bb4350fa2e568c47fdf679d28f474fdec8bcd37ae5",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/la02-sun-patio/la02-sun-patio-combined.mid",
-      "bytes": 6080,
-      "sha256": "88c9640d38928bd154c90c4a13e1bdff8ff9f7d2a0aa956ac02b865ac9286020",
+      "bytes": 6057,
+      "sha256": "05ca96403544fbd12ae7343a194f500d6b0f1edcb5681cf72a3a61d2774ad4ed",
       "errors": []
     },
     {
       "path": "midi/la02-sun-patio/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "a599a74c6b836de79f2e919f7e3fcbf2b13301990b6dbe8be30c53c5bcb9b8b7",
+      "bytes": 708,
+      "sha256": "5b4612bb1422ceba4c480be6309ada3a9acacf9a763d3611ab0fcef75abeb1f2",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/la03-blue-tile/la03-blue-tile-combined.mid",
-      "bytes": 6060,
-      "sha256": "2053615b0e8f3974860b13155b8563edb6dac3e660a91e546945653c73eebb29",
+      "bytes": 6037,
+      "sha256": "5d2980c32eddbca86efdad84797ad051b2c67f3b187a9e9b1aafa67892406fde",
       "errors": []
     },
     {
       "path": "midi/la03-blue-tile/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "7187ce11a319a865872eb744fb9c7b355fc0e3e92cec0fe2c1107ce56caca3e6",
+      "bytes": 688,
+      "sha256": "d5b00c84f303d210484954ea2a029d97aba77524a2966dec3b580c620bc7ac98",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/la04-warm-turn/la04-warm-turn-combined.mid",
-      "bytes": 6060,
-      "sha256": "a48f7835619a331075fbb1a915a08763cfeac1a2fd8a4484f7086068c1b22735",
+      "bytes": 6038,
+      "sha256": "7ff96d7f88a2e214ed657c034b37672c873d4673942ed87786749748a676aca7",
       "errors": []
     },
     {
       "path": "midi/la04-warm-turn/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "c4262f6b9680c52d726588df16af5ab80a62630b07699902bd48ea54a57b5760",
+      "bytes": 689,
+      "sha256": "21e976df223af3ee7d54e51ffab9cf3da17ba529fcf13e8065ef9e7329eb4bbd",
       "errors": []
     },
     {
