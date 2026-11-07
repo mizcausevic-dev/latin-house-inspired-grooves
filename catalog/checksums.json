@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/latin-house-inspired-grooves-midi.zip",
-      "bytes": 32152,
-      "sha256": "48ce41fe429f6af5a8062c758cb6bd26b1da8efa71af74659701e205a91acb37"
+      "bytes": 33139,
+      "sha256": "20bc7eb0507f5eefab227ae3221e1413ff74bb22467bc51002b9c4cbe6268546"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10808,
-      "sha256": "d22a648e3daf87549e36c0329a116c392d635bc4f17e6a3e870fe6c9ebbfd82a"
+      "bytes": 10998,
+      "sha256": "f0040d2d19b1df3e278fac1612362414e60225a1f0e3eff8365571bc72af242d"
     },
     {
       "path": "midi/la01-clay-grid/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "81c699d9336e201d10d1f5e5e8728ebf7b54423a07bc25c5b8424b8019801e07"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/latin-house-inspired-grooves-simple-synth-preview.mp3",
       "bytes": 1500308,
       "sha256": "a3afb59946111963f4acfa2c6125ef5644d82b7ac05c5285e88cea9e23ba6846"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4289,
-      "sha256": "3a294e9ab5441c1ddd2c65657d6eb17667d18406db736184d3d343db4b75df1e"
+      "bytes": 4404,
+      "sha256": "e7f5aaf22cf52bcb6a5db63dcafdbf64e5b76730dfcd94ba2b5d05a32ea7b7c3"
     },
     {
       "path": "REVISION.md",
